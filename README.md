@@ -1,5 +1,5 @@
 👋 Hi, I’m @jescaryanneacosta
-I am currently in De La Salle University taking my BS in Computer Science Major in Computer Systems Engineering
+- I am currently in De La Salle University taking my BS in Computer Science Major in Computer Systems Engineering
 
 
 <!---
